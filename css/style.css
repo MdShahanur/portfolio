@@ -1,0 +1,96 @@
+h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    padding: 0px;
+   
+}
+.bootstrap{
+    margin-bottom: 0px!important;
+}
+
+.header-icons h1{
+    text-align: center;
+}
+
+
+
+.portfolio-img{
+
+text-align: center;
+}
+.portfolio-img img{
+    
+border-radius: 50%;
+    
+border: 3px solid #1db4e8;
+    
+width: 200px;
+    
+height: 200px;
+}
+.php{
+    text-align: center;
+}
+.php img{
+    
+border-radius: 50%;
+    
+width: 30%;
+}
+marquee{
+    text-align: center;
+    margin: 25px 10px;
+}
+
+.card{
+
+width: 50%;
+
+margin: auto;
+
+padding: 30px 50px;
+
+border: 2px solid #428bca;
+
+margin-top: 30px;
+
+background: #afafaf;
+
+margin-bottom: 30px;
+}
+input[type="submit"]{
+
+background: #0303d4;
+
+color: white;
+
+letter-spacing: 2px;
+}
+
+.card-header h1{
+    font-weight: bold;
+
+}
+
+form-body{
+    background-image: url(../images/cidding_1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.header-icons{
+    padding: 30px 0px;
+    
+    
+}
+.few_thing{
+    display: inline-block;
+}
+.header-icons h1{
+    margin-bottom: 0px;
+}
+section{
+    padding: 35px 0px;
+}
+.about-me h1{
+    margin-bottom: 30px;
+}

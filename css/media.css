@@ -1,0 +1,81 @@
+@media(max-width: 768px){
+    h2{
+        font-size: 16px;
+    }
+    .header-icons{
+        padding-bottom: 0px;
+        
+    }
+    section{
+        padding-top: 35px;
+    }
+    .text-center img{
+        width: 50px;
+    }
+    .about-me img{
+        width: 100%;
+    }
+    .header-icons i{
+        font-size: 40px;
+    }
+    .card{
+        width: 100%;
+    }
+    .map-overlay{
+        padding: 0px;
+    }
+
+
+
+    }
+
+
+
+@media(max-width: 575px){
+    .portfolio-img img{
+        width: 160px;
+        height: 160px;
+    }
+
+    
+    .simple-bar .logo{
+        max-height: 45px;
+    }
+    .header-icons{
+        padding-top: 20px;
+        
+    }
+   
+.menue{    
+    width: 100%!important;
+}
+
+.simple-bar .menu li a{
+    width: 100px;
+}
+.menu{
+    width: 100%;
+    text-align: center;
+    margin-top: -50px;
+}
+h2{
+    font-size: 20px;
+}
+.top-bar{
+    position: fixed;
+}
+
+
+}
+
+
+@media(max-width:425px){
+    h2{
+        font-size: 16px;
+    }
+}
+@media(max-width:320px){
+    h2{
+        font-size: 14px;
+    }
+}
